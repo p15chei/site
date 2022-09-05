@@ -10,7 +10,9 @@ a των Γερμανών." id="fig:turing-profile" %}
 
 {% include figure image_path="/images/enigma.jpg" caption="Figure 2: H μηχανη Enigma ήταν μια ηλεκτρο-μηχανική συσκευή κρυπτογράφησης ρότορα. Χρησιμοποίηθηκε εκτός των άλλων απο τους Γερμανούς κατά τον Β Παγκόσμιο Πόλεμο για την κρυπτογράφηση των μηνυμάτων. " id="fig:enigma" %}
 
-O Turing γεννήθηκε στο Λονδίνο στις 23 Ιουνίου 1912. Το πιο γνωστό έργο του Turing είναι μια λογική μηχανή υπολογισμού.
+{% include figure image_path="/images/turing-machine.jpg" caption="Figure 3: Ένα μοντέλο της μηχανής Turing, η οποία αποτελεί μια λογική μηχανή υπολογισμού" id="fig:turing-machine" %}
+
+O Turing γεννήθηκε στο Λονδίνο στις 23 Ιουνίου 1912. Το πιο γνωστό έργο του Turing είναι μια λογική μηχανή υπολογισμού [^3].
 Εδειξε τη λειτουργία της για πρώτη φορά σε ένα δοκίμιο που ολοκληρώθηκε τον Απρίλιο του 1936, όταν ήταν μόλις 24 ετών.
 Δημοσιεύτηκε το 1937 στα Πρακτικά του περιοδικού “Μαθηματική Εταιρεία του Λονδίνου” και είχε τον τίτλο “On Computable Numbers,
 with an Application to the Entscheidungsproblem”. Μέσα απο το έργο του αποδείκνυε οτι υπάρχουν ορισμένα μαθηματικά προβλήματα
@@ -38,3 +40,5 @@ with an Application to the Entscheidungsproblem”. Μέσα απο το έργ�
 [^1]: fig:turing-profile
 
 [^2]: fig:enigma
+
+[^3]: fig:turing-machine
