@@ -23,5 +23,7 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
+  - gui
+  - cmd
 ---
 
