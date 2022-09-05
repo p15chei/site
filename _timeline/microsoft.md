@@ -7,6 +7,7 @@ events:
   - microsoft-basic 
   - ms-dos
   - windows1 
+  - gui
   - windows95
   - windows-mobile
   - windows-phone
