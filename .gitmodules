@@ -1,6 +1,6 @@
 [submodule "images"]
-	path = _includes/extras
-	url = https://github.com/pibook/images.git
+	path = images
+	url = https://github.com/p15chei/images.git
 	branch = master
 [submodule "_gallery"]
 	path = _gallery
